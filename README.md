@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm a Computer Science student at Oregon State University with a background that took a few creative turns before landing in tech — I used to work as an audio engineer and spent time building stormwater sampling systems across LA and San Diego Counties. Now, I'm focused on full stack and backend development, where I get to combine hands-on problem-solving with clean, scalable code.
+Hey! I'm currently a student getting my second Bachelor's Degree in Computer Science at Oregon State University with a background that took a few creative turns before landing in tech.  I used to work as an audio engineer and spent time designing and building stormwater sampling systems across LA and San Diego Counties. Now, I'm focused on full stack and backend development, where I get to combine hands-on problem-solving with clean, scalable code.
 
 Some projects I'm proud of:
 

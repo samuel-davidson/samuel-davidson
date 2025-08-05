@@ -5,7 +5,7 @@ Some projects I'm proud of:
 
 - Wrote a custom Linux shell in C from scratch
 
-- Wrote a Python program that gave me surf condition updates so I could know when to take a break and hit the surf 
+- Wrote a program in Python that gave me surf condition updates so I could know when to take a break and hit the surf 
 
 - Currently building a tool that compares resumes to job descriptions to help people tailor their applications
 

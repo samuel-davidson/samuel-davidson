@@ -1,5 +1,13 @@
 # 💫 About Me:
-CS student at Oregon State University. Ex-audio engineer and current hobbyist woodworker.<br><br>
+Hey! I'm a CS student at Oregon State University with a background that took a few creative turns before landing in tech — I used to work as an audio engineer and spent time building stormwater sampling systems across LA and San Diego Counties. Now, I'm focused on full stack and backend development, where I get to combine hands-on problem-solving with clean, scalable code.
+
+Some projects I'm proud of:
+
+- Wrote a custom Linux shell in C from scratch
+
+- Currently building a tool that compares resumes to job descriptions to help people tailor their applications
+
+When I'm not coding, I'm usually woodworking, surfing, or cooking up something new in the kitchen. Always down to collaborate or connect about interesting projects or internship opportunities!<br><br>
 
 
 ## 🌐 Socials:

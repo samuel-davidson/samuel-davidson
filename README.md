@@ -3,11 +3,11 @@ Hey! I'm currently a student earning my second Bachelor's Degree in Computer Sci
 
 Some projects I'm proud of:
 
-- Wrote a custom Linux shell in C from scratch
+- Wrote a custom Linux shell in C from scratch.
 
-- Wrote a program in Python that gave me surf condition updates so I could know when to take a break and hit the surf 
+- Wrote a program in Python that gave me surf condition updates so I could know when to take a break and hit the surf.
 
-- Currently building a tool that compares resumes to job descriptions to help people tailor their applications
+- Currently building a B2B SAAS AI Support Platform using Next.js, React, Turborepo, Convex, Vapi, and AWS.
 
 When I'm not coding, I'm usually woodworking, surfing, or cooking up something new in the kitchen. Always down to collaborate or connect about interesting projects or internship opportunities!<br><br>
 
